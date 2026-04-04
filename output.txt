@@ -1,0 +1,2 @@
+This is an output file created using Python.
+Appending a new line to the output file.
