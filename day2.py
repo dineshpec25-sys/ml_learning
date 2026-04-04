@@ -75,3 +75,4 @@ print()
 # Task3
 sentence = "python is very powerful"
 print(len(sentence.split()))
+print("End of Day2")
